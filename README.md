@@ -29,7 +29,10 @@ Here are some ideas to get you started:
    <p align="left" dir="auto">
       👯 I would be happy to collaborate on any new project ! 
     </p>
-  
+    
+   <p align="left" dir="auto">
+     ✨ Final team project @LeWagon  <a href="https://www.parkbuddies.ch/"><em> ParkBuddies, l'appli qui transforme les parcs en terrains d'amitié </em></a>
+  </p>
   <p align="left" dir="auto">
      ⚡ Fun fact, I love plants and have a favorite type of sheep (have you met the valais black nose sheep?).
   </p>
