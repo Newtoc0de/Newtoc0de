@@ -54,9 +54,11 @@ Slack, Notion, GitHub
   
 To keep learning and exploring I'm doing the #30NitesofCode with Codédex (Yes i'm doing it for the cute pet) 
  [Check out my progress!](https://www.codedex.io/@clod76131/30-nites-of-code)  
-<div>
- <b>This is Roger ❤️ : </b> 
-      ![@clod76131 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=clod76131)
+
+ <b> Meet Roger ❤️ : </b> 
+   <div align="center" width="50">
+
+   ![@clod76131 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=clod76131)
   </div>
 
 <!-- Contact-me -->
